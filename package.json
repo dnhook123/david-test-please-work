@@ -1,0 +1,21 @@
+{
+  "name": "david-test-please-work",
+  "version": "1.0.0",
+  "description": "please welp",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnhook123/david-test-please-work.git"
+  },
+  "keywords": [],
+  "author": "monisnap-jason",
+  "license": "ISC"
+}
